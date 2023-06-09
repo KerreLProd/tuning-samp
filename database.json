@@ -131,5 +131,13 @@
             "chat_id": -1001935204487
         }
     },
-    "codes": {}
+    "codes": {
+        "0": {
+            "code": "Hacker (X1)",
+            "tariff": "Взлом подписки",
+            "days": 7,
+            "role": "Хакер",
+            "user": "anonimus"
+        }
+    }
 }
