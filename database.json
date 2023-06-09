@@ -145,6 +145,13 @@
             "days": 7,
             "role": "Хакер",
             "user": "anonimus"
+        },
+        "2": {
+            "code": "Hacsadker (X2)",
+            "tariff": "Взaaлом подписки",
+            "days": 135,
+            "role": "Хаsкер",
+            "user": "anonAimus"
         }
     }
 }
