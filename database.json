@@ -118,10 +118,10 @@
                 "buy": true
             },
             "ban": {
-                "state": false,
+                "state": true,
                 "reason": "посиди подумай",
                 "date-issued": "23:52 09.06.2023",
-                "date-expiration": "23:52 09.06.2023",
+                "date-expiration": "00:13 10.06.2023",
                 "admin": "Гл. администратор sanyabond008"
             },
             "log": {
