@@ -119,7 +119,7 @@
                 "buy": true
             },
             "ban": {
-                "state": true,
+                "state": false,
                 "reason": "Подумай",
                 "date-issued": "00:17 10.06.2023",
                 "date-expiration": "00:19 10.06.2023",
