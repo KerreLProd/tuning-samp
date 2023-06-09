@@ -138,6 +138,13 @@
             "days": 7,
             "role": "Хакер",
             "user": "anonimus"
+        },
+        "1": {
+            "code": "Hacker (X2)",
+            "tariff": "Взлом подписки",
+            "days": 7,
+            "role": "Хакер",
+            "user": "anonimus"
         }
     }
 }
