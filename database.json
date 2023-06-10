@@ -41,7 +41,7 @@
                 "chat_id": 1736139431,
                 "userrole": "Гл. администратор",
                 "userlevel": 5,
-                "action": true,
+                "action": false,
                 "buy": false
             },
             "ban": {
