@@ -42,7 +42,7 @@
                 "userrole": "Гл. администратор",
                 "userlevel": 5,
                 "action": false,
-                "buy": true
+                "buy": false
             },
             "ban": {
                 "state": false,
