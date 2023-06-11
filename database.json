@@ -11,7 +11,7 @@
         },
         "script": {
             "url": "https://github.com/KerreLProd/tuning-samp/raw/main/Tuning.luac",
-            "version": "2.31 fix",
+            "version": "2.32 release",
             "date": "10.06.2023",
             "new": {
                 "1": "Исправлена авто-оплата после выбора тюнинга.",
