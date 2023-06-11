@@ -118,6 +118,38 @@
             "log": {
                 "00:36:37-10.06.2023": "Гл. администратор sanyabond008 добавил Пользователь kolya_vessss."
             }
+        },
+        "4": {
+            "license": {
+                "uid": "Отсутствует",
+                "valid": "Отсутствует",
+                "issued": "Отсутствует",
+                "tariff": "Отсутствует",
+                "role": "Отсутствует",
+                "name": "Отсутствует",
+                "reissue": {
+                    "left": "Отсутствует",
+                    "reason": "Отсутствует"
+                }
+            },
+            "telegram": {
+                "username": "arztune_ad",
+                "chat_id": 597441127,
+                "userrole": "Пользователь",
+                "userlevel": 0,
+                "action": false,
+                "buy": false
+            },
+            "ban": {
+                "state": false,
+                "reason": "Отсутствует",
+                "date-issued": "00:00 01.01.1970",
+                "date-expiration": "00:00 01.01.1970",
+                "admin": "Отсутствует"
+            },
+            "log": {
+                "12:49:40-11.06.2023": "Пользователь arztune_ad зарегистрировался."
+            }
         }
     },
     "channels": {
