@@ -446,6 +446,39 @@
             "log": {
                 "02:09:11-12.06.2023": "Пользователь uiminun зарегистрировался."
             }
+        },
+        "13": {
+            "license": {
+                "uid": "Отсутствует",
+                "valid": "Отсутствует",
+                "issued": "Отсутствует",
+                "tariff": "Отсутствует",
+                "role": "Отсутствует",
+                "name": "Отсутствует",
+                "freeze": false,
+                "reissue": {
+                    "left": "Отсутствует",
+                    "reason": "Отсутствует"
+                }
+            },
+            "telegram": {
+                "username": "andy_damiano",
+                "chat_id": 1348720883,
+                "userrole": "Пользователь",
+                "userlevel": 0,
+                "action": false,
+                "buy": false
+            },
+            "ban": {
+                "state": false,
+                "reason": "Отсутствует",
+                "date-issued": "00:00 01.01.1970",
+                "date-expiration": "00:00 01.01.1970",
+                "admin": "Отсутствует"
+            },
+            "log": {
+                "05:30:37-12.06.2023": "Пользователь andy_damiano зарегистрировался."
+            }
         }
     },
     "channels": {
