@@ -169,7 +169,7 @@
                 "chat_id": 597441127,
                 "userrole": "Пользователь",
                 "userlevel": 0,
-                "action": true,
+                "action": false,
                 "buy": false
             },
             "ban": {
