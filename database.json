@@ -181,7 +181,7 @@
                 "chat_id": 597441127,
                 "userrole": "Пользователь",
                 "userlevel": 0,
-                "action": false,
+                "action": true,
                 "buy": false
             },
             "ban": {
