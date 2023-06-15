@@ -353,7 +353,7 @@
                 "chat_id": 1018641559,
                 "userrole": "Пользователь",
                 "userlevel": 0,
-                "action": false,
+                "action": true,
                 "buy": false
             },
             "ban": {
