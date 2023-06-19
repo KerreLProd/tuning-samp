@@ -144,8 +144,8 @@
                 "chat_id": 842756206,
                 "userrole": "Тестировщик",
                 "userlevel": 0,
-                "action": true,
-                "buy": false
+                "action": false,
+                "buy": true
             },
             "ban": {
                 "state": false,
