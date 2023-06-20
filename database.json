@@ -215,7 +215,7 @@
                 "buy": false
             },
             "ban": {
-                "state": true,
+                "state": false,
                 "reason": "Блокировка бота",
                 "date-issued": "11:08 20.06.2023",
                 "date-expiration": "11:08 21.06.2023",
@@ -514,7 +514,7 @@
                 "buy": false
             },
             "ban": {
-                "state": true,
+                "state": false,
                 "reason": "Блокировка бота",
                 "date-issued": "11:18 20.06.2023",
                 "date-expiration": "11:18 21.06.2023",
@@ -691,7 +691,7 @@
                 "buy": false
             },
             "ban": {
-                "state": true,
+                "state": false,
                 "reason": "Блокировка бота",
                 "date-issued": "11:18 20.06.2023",
                 "date-expiration": "11:18 21.06.2023",
