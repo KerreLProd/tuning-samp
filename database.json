@@ -11,7 +11,7 @@
         },
         "script": {
             "url": "https://github.com/KerreLProd/tuning-samp/raw/main/Tuning.luac",
-            "version": "2.33 rfix",
+            "version": "2.34 release",
             "date": "10.06.2023",
             "new": {
                 "1": "Проект Rodina-RP теперь корректно поддерживается.",
