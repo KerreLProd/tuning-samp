@@ -898,7 +898,7 @@
                 "chat_id": 1777338524,
                 "userrole": "Пользователь",
                 "userlevel": 0,
-                "action": true,
+                "action": false,
                 "buy": false
             },
             "ban": {
