@@ -937,7 +937,7 @@
                 "userrole": "Пользователь",
                 "userlevel": 0,
                 "action": false,
-                "buy": false
+                "buy": true
             },
             "ban": {
                 "state": false,
