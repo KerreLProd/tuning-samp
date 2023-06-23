@@ -975,17 +975,20 @@
         },
         "1": {
             "code": "deTHFGVUAPJB",
-            "tariff": "Перенос подписки",
-            "days": 730,
+            "tariff": "Перенос (жулик)",
+            "days": 51,
             "role": "Гл. администратор",
             "user": "sanyabond008"
         },
         "2": {
             "code": "yNgqq5FQQQ5G",
-            "tariff": "перенос",
-            "days": 364,
+            "tariff": "Перенос (жулик)",
+            "days": 51,
             "role": "Гл. администратор",
             "user": "sanyabond008"
         }
+    },
+    "tiktok": {
+        "arztune_ad": "https://t.me/arztune_ad"
     }
 }
