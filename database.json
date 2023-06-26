@@ -1112,6 +1112,39 @@
             "log": {
                 "11:44:00-26.06.2023": "Пользователь Ratmiraa зарегистрировался."
             }
+        },
+        "29": {
+            "license": {
+                "uid": "Отсутствует",
+                "valid": "Отсутствует",
+                "issued": "Отсутствует",
+                "tariff": "Отсутствует",
+                "role": "Отсутствует",
+                "name": "Отсутствует",
+                "freeze": false,
+                "reissue": {
+                    "left": "Отсутствует",
+                    "reason": "Отсутствует"
+                }
+            },
+            "telegram": {
+                "username": "GuruFMer",
+                "chat_id": 911188539,
+                "userrole": "Пользователь",
+                "userlevel": 0,
+                "action": false,
+                "buy": false
+            },
+            "ban": {
+                "state": false,
+                "reason": "Отсутствует",
+                "date-issued": "00:00 01.01.1970",
+                "date-expiration": "00:00 01.01.1970",
+                "admin": "Отсутствует"
+            },
+            "log": {
+                "16:01:31-26.06.2023": "Пользователь GuruFMer зарегистрировался."
+            }
         }
     },
     "channels": {
