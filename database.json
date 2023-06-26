@@ -1077,6 +1077,39 @@
             "log": {
                 "21:36:21-25.06.2023": "Пользователь palaginsofts зарегистрировался."
             }
+        },
+        "28": {
+            "license": {
+                "uid": "Отсутствует",
+                "valid": "Отсутствует",
+                "issued": "Отсутствует",
+                "tariff": "Отсутствует",
+                "role": "Отсутствует",
+                "name": "Отсутствует",
+                "freeze": false,
+                "reissue": {
+                    "left": "Отсутствует",
+                    "reason": "Отсутствует"
+                }
+            },
+            "telegram": {
+                "username": "Ratmiraa",
+                "chat_id": 5923681996,
+                "userrole": "Пользователь",
+                "userlevel": 0,
+                "action": false,
+                "buy": false
+            },
+            "ban": {
+                "state": false,
+                "reason": "Отсутствует",
+                "date-issued": "00:00 01.01.1970",
+                "date-expiration": "00:00 01.01.1970",
+                "admin": "Отсутствует"
+            },
+            "log": {
+                "11:44:00-26.06.2023": "Пользователь Ratmiraa зарегистрировался."
+            }
         }
     },
     "channels": {
