@@ -1030,7 +1030,7 @@
                 "chat_id": 1022449555,
                 "userrole": "Пользователь",
                 "userlevel": 0,
-                "action": false,
+                "action": true,
                 "buy": false
             },
             "ban": {
