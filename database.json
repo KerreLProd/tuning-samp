@@ -932,7 +932,7 @@
                 "chat_id": 1777338524,
                 "userrole": "Пользователь",
                 "userlevel": 0,
-                "action": false,
+                "action": true,
                 "buy": false
             },
             "ban": {
