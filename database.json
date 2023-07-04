@@ -1022,8 +1022,8 @@
                 "chat_id": 971946677,
                 "userrole": "Пользователь",
                 "userlevel": 0,
-                "action": true,
-                "buy": false
+                "action": false,
+                "buy": true
             },
             "ban": {
                 "state": false,
