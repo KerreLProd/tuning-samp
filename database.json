@@ -526,7 +526,7 @@
                 "buy": false
             },
             "ban": {
-                "state": true,
+                "state": false,
                 "reason": "Блокировка бота",
                 "date-issued": "23:08 02.07.2023",
                 "date-expiration": "23:08 03.07.2023",
