@@ -1536,6 +1536,39 @@
             "log": {
                 "15:49:27-10.07.2023": "Пользователь coynel зарегистрировался."
             }
+        },
+        "40": {
+            "license": {
+                "uid": "Отсутствует",
+                "valid": "Отсутствует",
+                "issued": "Отсутствует",
+                "tariff": "Отсутствует",
+                "role": "Отсутствует",
+                "name": "Отсутствует",
+                "freeze": false,
+                "reissue": {
+                    "left": "Отсутствует",
+                    "reason": "Отсутствует"
+                }
+            },
+            "telegram": {
+                "username": "pzkpfwausfv",
+                "chat_id": 665383412,
+                "userrole": "Пользователь",
+                "userlevel": 0,
+                "action": false,
+                "buy": false
+            },
+            "ban": {
+                "state": false,
+                "reason": "Отсутствует",
+                "date-issued": "00:00 01.01.1970",
+                "date-expiration": "00:00 01.01.1970",
+                "admin": "Отсутствует"
+            },
+            "log": {
+                "16:32:24-10.07.2023": "Пользователь pzkpfwausfv зарегистрировался."
+            }
         }
     },
     "channels": {
